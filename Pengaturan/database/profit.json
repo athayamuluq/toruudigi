@@ -1,0 +1,10 @@
+{
+  "profit": {
+    "member": 1.01,
+    "premium": 1.01
+  },
+  "output": {
+    "member": "1%",
+    "premium": "1%"
+  }
+}
